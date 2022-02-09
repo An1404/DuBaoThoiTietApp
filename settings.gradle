@@ -1,0 +1,2 @@
+rootProject.name = "BTL_DuBaoThoiTiet"
+include ':app'

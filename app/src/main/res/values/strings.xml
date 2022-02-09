@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BTL_DuBaoThoiTiet</string>
+    <string name="clear_sky">Clear Sky</string>
+    <string name="few_clouds">Few Clouds</string>
+    <string name="scattered_clouds">Scattered Clouds</string>
+    <string name="broken_clouds">Broken Clouds</string>
+    <string name="light_rain">Light Rain</string>
+    <string name="moderate_rain">Moderate Rain</string>
+    <string name="heavy_intensity_rain">Heavy Intensity Rain</string>
+    <string name="thunderstorm_rain">Thunderstorm With Rain</string>
+    <string name="thunderstorm">Thunderstorm</string>
+    <string name="snow">Snow</string>
+    <string name="mist">Mist</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="tabHomNay">TODAY</string>
+    <string name="tabNgayMai">TOMORROW</string>
+    <string name="tab7day">7 DAYS</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="tp">City</string>
+    <string name="quocgia">Country</string>
+
+
+</resources>

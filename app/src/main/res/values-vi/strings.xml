@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BTL_DuBaoThoiTiet</string>
+    <string name="clear_sky">Trời Quang</string>
+    <string name="few_clouds">Trời Ít Mây</string>
+    <string name="scattered_clouds">Mây Rải Rác</string>
+    <string name="broken_clouds">Nhiều Mây</string>
+    <string name="light_rain">Mưa Nhẹ</string>
+    <string name="moderate_rain">Mưa Vừa</string>
+    <string name="heavy_intensity_rain">Mưa To</string>
+    <string name="thunderstorm_rain">Mưa Kèm Sấm Sét</string>
+    <string name="thunderstorm">Có Sấm Sét</string>
+    <string name="snow">Có Tuyết Rơi</string>
+    <string name="mist">Có Xương Mù</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="tabHomNay">HÔM NAY</string>
+    <string name="tabNgayMai">NGÀY MAI</string>
+    <string name="tab7day">7 NGÀY</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="tp">Thành Phố</string>
+    <string name="quocgia">Quốc Gia</string>
+
+</resources>

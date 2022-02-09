@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FileAndroid/BTL_DuBaoThoiTiet/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.28958333333333336" />
+        <entry key="..\:/FileAndroid/BTL_DuBaoThoiTiet/app/src/main/res/layout/activity_home.xml" value="0.2033514492753623" />
+        <entry key="..\:/FileAndroid/BTL_DuBaoThoiTiet/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/FileAndroid/BTL_DuBaoThoiTiet/app/src/main/res/layout/activity_map.xml" value="0.2734375" />
+        <entry key="..\:/FileAndroid/BTL_DuBaoThoiTiet/app/src/main/res/layout/activity_maps.xml" value="0.2734375" />
+        <entry key="..\:/FileAndroid/BTL_DuBaoThoiTiet/app/src/main/res/layout/dong_listview.xml" value="0.2734375" />
+        <entry key="..\:/FileAndroid/BTL_DuBaoThoiTiet/app/src/main/res/layout/man_hinh_7ngay.xml" value="0.14270833333333333" />
+        <entry key="..\:/FileAndroid/BTL_DuBaoThoiTiet/app/src/main/res/layout/man_hinh_chinh.xml" value="0.2734375" />
+        <entry key="..\:/FileAndroid/BTL_DuBaoThoiTiet/app/src/main/res/layout/man_hinh_ngay_mai.xml" value="0.2754782700075322" />
+        <entry key="..\:/FileAndroid/BTL_DuBaoThoiTiet/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.28958333333333336" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.253125" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
